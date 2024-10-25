@@ -1,4 +1,4 @@
-# Shopify-MERN-Vite
+# Shopify-MERN-Vite Fork
 
 ## Overview
 
